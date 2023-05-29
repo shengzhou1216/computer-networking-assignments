@@ -3,4 +3,4 @@
 http://gaia.cs.umass.edu/kurose_ross/programming.php
 
 - [x] Lab1: A simple client/server simple socket program
-- [ ] Lab2: Web server
+- [x] Lab2: Web server
