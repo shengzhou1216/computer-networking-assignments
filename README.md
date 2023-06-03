@@ -4,3 +4,4 @@ http://gaia.cs.umass.edu/kurose_ross/programming.php
 
 - [x] Lab1: A simple client/server simple socket program
 - [x] Lab2: Web server
+- [ ] Lab3: UDP	Pinger
