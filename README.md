@@ -6,7 +6,7 @@ http://gaia.cs.umass.edu/kurose_ross/programming.php
 - [x] Lab2: Web server
 - [x] Lab3: UDP	Pinger
 - [x] Lab4: SMTP
-- [ ] Lab5: ICMP pinger
+- [x] Lab5: ICMP pinger
 
 ## Lab1: A simple client/server simple socket program
 
